@@ -37,3 +37,12 @@
     transform: translateY(0px);
   }
 }
+
+.chart {
+  display: flex;
+  position: "relative";
+  width: "40%";
+  flex-wrap: wrap;
+  gap: 50px;
+  justify-content: center;
+}
